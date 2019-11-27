@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Katerina Miteneva](https://up.htmlacademy.ru/adaptive/18/user/199591).
-* Наставник: `Неизвестно`.
+* Наставник: `сам себе наставник`.
 
 ---
 
